@@ -1,5 +1,5 @@
 #Todo-Wood BG
-This is a class project to follow the discription below
+This is a class project to follow the description below
 
 Connecting to Firebase Database
 
